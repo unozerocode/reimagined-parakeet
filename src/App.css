@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+.map-content{
+  display:flex;
+justify-content:center;
+align-content: center;
+}
+.map{
+
+width: 1280px;
+height: 720px;
+}
