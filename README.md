@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![CircleCI](https://circleci.com/gh/unozerocode/reimagined-parakeet.svg?style=svg)](https://circleci.com/gh/unozerocode/reimagined-parakeet)
 
+## Deployment
+[Heroku](https://reimagined-parakeet.herokuapp.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
